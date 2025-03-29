@@ -1,6 +1,9 @@
+package client;
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
 import java.util.Scanner;
+import common.Calculadora;
+
 
 public class Cliente {
     public static void main(String[] args) {

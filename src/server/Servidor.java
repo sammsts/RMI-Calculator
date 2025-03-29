@@ -1,5 +1,7 @@
+package server;
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
+import server.CalculadoraImpl;
 
 public class Servidor {
     public static void main(String[] args) {
