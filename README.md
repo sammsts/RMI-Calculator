@@ -52,7 +52,7 @@ java server.Servidor
 java client.Cliente
 ```
 
-## 🔹 Ou faça pelos scrpits
+## 🔹 Or do it by scrpits
 ### Windows
 - **Compilar o projeto**: 
   - Run the script `scripts/compile.bat`.
